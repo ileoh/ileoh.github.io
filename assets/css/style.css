@@ -566,6 +566,16 @@ small {
   background-color: #00695c !important;
 } */
 
+/* Teaching section stat cards */
+#teaching .card.teal .card-content {
+  padding: 20px;
+}
+
+#teaching .card.teal h5 {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
